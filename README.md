@@ -1,6 +1,8 @@
 Drupal Vagrant Dev box for CIbox support
 ======
 
+[![Join the chat at https://gitter.im/DmitryDrozdik/dmaps](https://badges.gitter.im/DmitryDrozdik/dmaps.svg)](https://gitter.im/DmitryDrozdik/dmaps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #Installation
 * [Vagrant](https://www.vagrantup.com/downloads.html)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
